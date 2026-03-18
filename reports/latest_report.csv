@@ -1,0 +1,8 @@
+sku,title,issue,severity
+123,Miracle Acne Cure Cream,"Amazon policy risk: Risky keyword found: ""cure""",BLOCKER
+123,Miracle Acne Cure Cream,"Amazon policy risk: Risky keyword found: ""miracle""",BLOCKER
+123,Miracle Acne Cure Cream,Amazon policy risk: Duplicate SKU found,WARNING
+123,Regular Face Wash,Amazon policy risk: Duplicate SKU found,WARNING
+123,Regular Face Wash,Amazon policy risk: Missing description,WARNING
+789,,Amazon policy risk: Missing title,WARNING
+789,,Amazon policy risk: Missing price,WARNING
